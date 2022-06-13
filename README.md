@@ -6,8 +6,6 @@
 - 🎯 2022 Goals: Learn more about **Web Development**
 - 🌟 Fun fact: I love to **modify keyboard** ⌨️
 
-<br />
-
 ### Languages and Tools: 💻
 
 <div align="left" style="padding-top:10px;" >
@@ -25,8 +23,6 @@
 <img alt="Sass" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:20px;" />
 <img alt="Redux" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-right:20px;" />
 </div>
-
-<br />
 
 ## Connect with me: 🙋🏻‍♂️
 
