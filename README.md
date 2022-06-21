@@ -2,7 +2,7 @@
 
 ## I'm a passionate Frontend Developer from Hong Kong 🇭🇰!!
 
-- 👨🏻‍💻 I’m currently working on **a simple react web app**
+- 👨🏻‍💻 I’m currently working on a **React web project**
 - 🌱 I’m currently learning **Frontend Development** 🤣
 - 🎯 2022 Goals: Learn more about **Web Development**
 - 🌟 Fun fact: I love to **modify keyboard** ⌨️
@@ -30,7 +30,7 @@
 
 ## Connect with me: 🙋🏻‍♂️
 
-[<img align="left" alt="LinkedIn" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
+[<img align="left" alt="LinkedIn"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/bruce-webdeveloper
 [portfolio]: https://lto666.github.io/
