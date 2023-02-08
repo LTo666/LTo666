@@ -1,11 +1,11 @@
 # Hello everyone 👋, I'm Bruce
 
-## I'm a passionate Frontend Developer from Hong Kong 🇭🇰!!
+## I'm a passionate Web Developer from Hong Kong 🇭🇰!!
 
-- 👨🏻‍💻 I’m currently working on a **React web project**
-- 🌱 I’m currently learning **Frontend Development** 🤣
-- 🎯 2022 Goals: Learn more about **Web Development**
-- 🌟 Fun fact: I love to **modify keyboard** ⌨️
+- 👨🏻‍💻 I’m currently working on a **Education Web App Project**
+- 🌱 I’m currently learning **Next.js** 🤣
+- 🎯 2023 Goals: Learn more about **Computer Science**
+- 🌟 Fun fact: I love to **build keyboard** ⌨️
 - 🗺 Explore more in my [**portfolio website**][portfolio]
 
 ### Languages and Tools: 💻
@@ -17,6 +17,7 @@
 <img alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:20px;" />
 <img alt="jQuery" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" style="padding-right:20px;" />
 <img alt="React" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:20px;" />
+<img alt="Typescript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:20px;" />
 </div>
 <br />
 <div align="left">
@@ -26,6 +27,7 @@
 <img alt="Tailwind" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:20px;" />
 <img alt="Sass" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:20px;" />
 <img alt="Redux" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-right:20px;" />
+<img alt="MaterialUI" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" style="padding-right:20px;" />
 </div>
 
 ## Connect with me: 🙋🏻‍♂️
