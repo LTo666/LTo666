@@ -2,9 +2,9 @@
 
 ## I'm a passionate Web Developer from Hong Kong 🇭🇰!!
 
-- 👨🏻‍💻 I’m currently working on a **Education Web App Project**
-- 🌱 I’m currently learning **Next.js** 🤣
-- 🎯 2023 Goals: Learn more about **Computer Science**
+- 👨🏻‍💻 I’m currently working on a **Education Web App Project** and a **SharePoint migration project**
+- 🌱 I’m currently learning **Next.js** and **Power App Platform** 🤣
+- 🎯 2023 Goals: Learn more about **Computer Science** and **Backend Development**
 - 🌟 Fun fact: I love to **build keyboard** ⌨️
 - 🗺 Explore more in my [**portfolio website**][portfolio]
 
