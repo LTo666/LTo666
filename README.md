@@ -1,6 +1,6 @@
 # Hello everyone 👋, I'm Bruce
 
-## I'm a passionate Web Developer from Hong Kong 🇭🇰!!
+## I'm a passionate Software Engineer from Hong Kong 🇭🇰!!
 
 - 👨🏻‍💻 I’m currently working on a **Education Web App Project** and a **SharePoint migration project**
 - 🌱 I’m currently learning **Next.js** and **Power App Platform** 🤣
