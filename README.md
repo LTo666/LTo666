@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Data Structure & Algorithm** and **Blockchain** 🤣
 - 🎯 2024 Goals: Learn more about **Backend Development** and **Azure Cloud Platform**
 - 🌟 Fun fact: I love to **build keyboard** ⌨️
-- 🗺 Explore more in my [**portfolio website**][portfolio]
+- 🗺 Explore more in my [**Portfolio Website**][portfolio]
 
 ### Languages and Tools: 💻
 
