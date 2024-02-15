@@ -2,9 +2,9 @@
 
 ## I'm a passionate Software Engineer from Hong Kong 🇭🇰!!
 
-- 👨🏻‍💻 I’m currently working on a **Education Web App Project** and a **SharePoint migration project**
-- 🌱 I’m currently learning **Next.js** and **Power App Platform** 🤣
-- 🎯 2023 Goals: Learn more about **Computer Science** and **Backend Development**
+- 👨🏻‍💻 I’m currently working on a **Microsoft Project system migration project**
+- 🌱 I’m currently learning **Data Structure & Algorithm** and **Blockchain** 🤣
+- 🎯 2024 Goals: Learn more about **Backend Development** and **Azure Cloud Platform**
 - 🌟 Fun fact: I love to **build keyboard** ⌨️
 - 🗺 Explore more in my [**portfolio website**][portfolio]
 
@@ -18,16 +18,18 @@
 <img alt="jQuery" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" style="padding-right:20px;" />
 <img alt="React" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:20px;" />
 <img alt="Typescript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:20px;" />
+<img alt="CSharp" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="padding-right:20px;" />
 </div>
 <br />
 <div align="left">
 <img alt="Command Line" width="32px" src="./img/terminal.png" style="padding-right:20px;" />
 <img alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:20px;" />
 <img alt="Bootstrap" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:20px;" />
-<img alt="Tailwind" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:20px;" />
+<img alt="TailwindCSS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:20px;" />
 <img alt="Sass" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:20px;" />
 <img alt="Redux" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-right:20px;" />
 <img alt="MaterialUI" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" style="padding-right:20px;" />
+<img alt="dotNet" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" style="padding-right:20px;" />
 </div>
 
 ## Connect with me: 🙋🏻‍♂️
