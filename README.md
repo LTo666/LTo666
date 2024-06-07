@@ -1,3 +1,4 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 # Hello everyone 👋, I'm Bruce
 
 ## I'm a passionate Software Engineer from Hong Kong 🇭🇰!!
@@ -40,6 +41,7 @@
   <img alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:20px;" />
   <img alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:20px;" />
   <img alt="GitHub" width="32px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="padding-right:20px;" />
+  <i alt="GitHub" width="32px" class="devicon-github-original" style="padding-right:20px;"></i>
   <img alt="Azure" width="32px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" style="padding-right:20px;" />
 </div>
 
