@@ -25,9 +25,9 @@
 ### Frameworks: 🧩
 
 <div align="left" >
-  <img title="React" alt="React.JS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:20px;" />
-  <img title="Vue" alt="Vue.JS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" style="padding-right:20px;" />
-  <img title="Nuxt" alt="Nuxt.JS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" style="padding-right:20px;" />
+  <img title="React.JS" alt="React.JS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:20px;" />
+  <img title="Vue.JS" alt="Vue.JS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" style="padding-right:20px;" />
+  <img title="Nuxt.JS" alt="Nuxt.JS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" style="padding-right:20px;" />
   <img title="DotNet Framework" alt="DotNet Framework" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" style="padding-right:20px;" />
   <img title="DotNet Core" alt="DotNet Core" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" style="padding-right:20px;"  />
   <img title="Bootstrap" alt="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:20px;" />
