@@ -3,8 +3,8 @@
 ## I'm a passionate Software Engineer from Hong Kong 🇭🇰!!
 
 ### 👨🏻‍💻 I’m currently working on a **Microsoft Project system migration project**
-### 🌱 I’m currently learning **Data Structure & Algorithm** and **Blockchain** 🤣
-### 🎯 2024 Goals: Learn more about **Backend Development** and **Azure Cloud Platform**
+### 🌱 I’m currently learning **Java** and **Rust** 🤣
+### 🎯 2024 Goals: Learn more about **Backend Development** and **Blockchain**
 ### 🌟 Fun fact: I love to **build keyboard** ⌨️
 ### 🗺 Explore more in my [**Portfolio Website**][portfolio]
 
